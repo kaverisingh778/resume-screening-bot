@@ -1,0 +1,14 @@
+
+Java
+Exception Handling
+Multithreading
+JSP
+Servlets
+File I/O
+Spring Boot
+Collections
+OOP
+Generics
+Synchronization
+JVM
+Memory Management
